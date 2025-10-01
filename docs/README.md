@@ -143,7 +143,7 @@ For technical support and questions:
 
 ## License
 
-This project is part of academic research. Please refer to the academic paper for citation information.
+This project is part of academic research. Please refer to the academic paper or you can mail at s23224522@al.tiu.ac.jp for any information.
 
 ---
 
